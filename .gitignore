@@ -73,3 +73,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/[Tt]errain[Tt]extures[Pp]ack[Ff]ree/[Tt]errain[Tt]extures/[Gg]rassUV01.png
+/[Aa]ssets/[Tt]errain[Tt]extures[Pp]ack[Ff]ree/[Tt]errain[Tt]extures/[Gg]rassUV01_N.png
+/[Aa]ssets/[Tt]errain[Tt]extures[Pp]ack[Ff]ree/[Tt]errain[Tt]extures/[Gg]rassUV02.png
+/[Aa]ssets/[Tt]errain[Tt]extures[Pp]ack[Ff]ree/[Tt]errain[Tt]extures/[Gg]rassUV02_N.png
